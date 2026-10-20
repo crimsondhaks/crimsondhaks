@@ -47,6 +47,13 @@ I build across frontend, backend, and infrastructure—mostly because bugs refus
 
 </details>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar for crimsondhaks" width="100%" />
+  </picture>
+</p>
+
 ---
 
 <p align="center"><i>I like software that solves the problem before it starts a new one.</i></p>
