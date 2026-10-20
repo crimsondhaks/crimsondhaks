@@ -17,20 +17,6 @@ I build across frontend, backend, and infrastructure—mostly because bugs refus
 - Automating repetitive work, then debugging the automation. Progress is progress.
 - Contributing to open source with useful PRs and suspiciously detailed commit messages.
 
-## Recently merged upstream
-
-<!-- shipped:start -->
-| Project | Pull request | Merged |
-| --- | --- | --- |
-| **n8n-io/n8n** | [fix(core): Evaluate expressions in AI tool description for node-as-to…](https://github.com/n8n-io/n8n/pull/31495) | 2026-06-16 |
-| **nexu-io/open-design** | [docs: add Alibaba Cloud (阿里云) deployment guide](https://github.com/nexu-io/open-design/pull/3275) | 2026-06-02 |
-| **BigPizzaV3/CodexPlusPlus** | [fix(manager): grant dialog plugin capability so file pickers actually…](https://github.com/BigPizzaV3/CodexPlusPlus/pull/494) | 2026-06-01 |
-| **BigPizzaV3/CodexPlusPlus** | [fix(inject): apply dark theme to delete-confirm and project-move dialogs](https://github.com/BigPizzaV3/CodexPlusPlus/pull/393) | 2026-05-29 |
-| **nexu-io/open-design** | [docs: sync CONTRIBUTING translations with English source](https://github.com/nexu-io/open-design/pull/3131) | 2026-05-28 |
-<!-- shipped:end -->
-
-<sub>Refreshed daily by a GitHub Action, so the evidence stays current.</sub>
-
 ## Tools I reach for
 
 <p align="left">
